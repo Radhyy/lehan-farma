@@ -1,2 +1,2 @@
-[functions]
-  included_files = ["public/FOTO PRODUK/**"]
+[build.environment]
+  NETLIFY_MAX_BODY_SIZE = "104857600"
