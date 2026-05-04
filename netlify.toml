@@ -1,2 +1,3 @@
 [build.environment]
+  NODE_VERSION = "18"
   NETLIFY_MAX_BODY_SIZE = "104857600"
